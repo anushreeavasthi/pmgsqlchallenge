@@ -24,7 +24,8 @@ Please refer to the PMG.sql file for the sql codes and the marketing_data.csv an
 ![image](https://user-images.githubusercontent.com/33330562/156784545-12da4631-44c6-46c5-a9d9-7136f6a2990b.png)
 
 **Question 3**: Merge these two datasets so we can see impressions, clicks, and revenue together by date and geo. Please ensure all records from each table are accounted for. 
-Note: Only top 10 rows displayed of the output table in the image below.
+
+Note: Only top 7 rows displayed of the output table in the image below.
 
 **Output Table**: 
 
