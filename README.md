@@ -1,5 +1,7 @@
 **SQL code for PMG data challenge.**
 
+Please refer to the PMG.sql file for the sql codes and the marketing_data.csv and store_revenue.csv files for data.
+
 **Challenge:**
 
 **Answer the following SQL questions based on two tables store_revenue and marketing_data**
